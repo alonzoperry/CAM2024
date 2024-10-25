@@ -1,2 +1,4 @@
 # CAM2024
-### Future location for content from Cybersecurity Awareness Month talk for Cerro Coso Community College. 
+### Location for content from the Cybersecurity Awareness Month presentation for Cerro Coso Community College. 
+#### - Slides attached (25-OCT-2025). 
+#### - Additional reference information to follow. 
